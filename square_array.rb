@@ -10,6 +10,7 @@ puts numbers * numbers
   # your code here
   #numbers.each do |numbers|
 end
+end
 #return new_numbers []
 
 #end
