@@ -9,5 +9,5 @@ def square_array(numbers)
 puts numbers * #{numbers}
 
 end
-end
+
 #return new_numbers []
