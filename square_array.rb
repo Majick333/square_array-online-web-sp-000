@@ -12,5 +12,3 @@ puts numbers.to_i * numbers.to_i
 end
 end
 #return new_numbers []
-
-
