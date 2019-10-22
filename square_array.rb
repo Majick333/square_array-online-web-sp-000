@@ -8,7 +8,7 @@ def square_array(numbers)
    numbers.each do |number|
     puts [number * number]
 
-return new_numbers[]
+return new_numbers
 end
 end
 #return new_numbers []
