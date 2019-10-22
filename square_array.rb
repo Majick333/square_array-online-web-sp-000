@@ -5,6 +5,6 @@ def square_array(numbers)
   # your code here
   #numbers.each do |numbers|
 end
-return new_numbers []
+#return new_numbers []
 end
 #end
